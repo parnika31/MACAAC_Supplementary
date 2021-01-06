@@ -7,4 +7,4 @@ Supplementary material for our paper titled "Attention Actor-Critic algorithm fo
 
 [MADDPG-C](https://github.com/parnika31/MADDPG-C)
 
-To train using MAAC Unconstrained, in the repository MACAAC find the main file associated with each experiment and initialize the lagrange parameter to zero for all constraints and comment the penalty critics.
+To experiment on Constrained Cooperative Navigation/Constrained Cooperative Treasure Collection using MAAC Unconstrained, in main.py/main_treasure_collection.py of the repository MACAAC, initialize the lagrange parameter to zero for all constraints and comment the penalty critics and lagrange parameter updates.
