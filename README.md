@@ -1,6 +1,6 @@
 # **MACAAC_Supplementary**
 
-Supplementary material for our paper titled "Attention Actor-Critic algorithm for Multi-Agent Constrained Co-operative Reinforcement Learning" (MACAAC). 
+Supplementary material for our paper titled [Attention Actor-Critic algorithm for Multi-Agent Constrained Co-operative Reinforcement Learning](http://arxiv.org/abs/2101.02349) (MACAAC). 
 
 ### Codes   
 [MACAAC](https://github.com/parnika31/MACAAC)
